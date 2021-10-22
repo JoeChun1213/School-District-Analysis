@@ -30,14 +30,8 @@ By the end of this module, we will be able to:
 - Merge, filter, slice, and sort a DataFrame.
 - Apply the groupby() function to a DataFrame.
 - Use multiple methods to perform a function on a DataFrame.
-- Perform mathematical calculations on columns of a DataFrame or Series.
-
-## Challenge Overview
-Maria and her supervisor have discovered that the score averages for ninth graders from one high school are incorrect. Maria has asked to remove the math and reading scores for that high school, but without removing those ninth-grade students from the analysis.
-
-- Filter DataFrames using logical operators.
-- Replace the incorrect values with NaN.
-- Explain how your PyCity Schools analysis changes after you handle the incorrect data.
+- Perform mathematical calculations on columns of a DataFrame or Series. 
+ 
 
 ## Challenge Summary
 The analysis of the schools, after removing the reading and math scores, show that:
